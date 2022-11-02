@@ -1,3 +1,5 @@
+#TimeComplexity: O(n)
+#SpaceComplexity: O(n)
 class Solution:
     def findJudge(self, n: int, trust: List[List[int]]) -> int:
         
